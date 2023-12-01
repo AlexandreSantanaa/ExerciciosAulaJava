@@ -4,7 +4,7 @@ public class ArrayForEach {
 
 	public static void main(String[] args) {
 		String[] carros = {"carro00", "carro01", "carro02"};
-		
+		 
 		for(String i : carros) {
 			System.out.println(i);
 		}
