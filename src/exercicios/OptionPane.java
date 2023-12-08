@@ -4,11 +4,10 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 public class OptionPane {
-	Jframe f;
+	//Jframe f = new JFrame();
 	
-	OptionPane(){
-		f=new JFrame();  
-	    JOptionPane.showMessageDialog(f,"Hello, Welcome to Javatpoint.");  
+	OptionPane(){  
+	//    JOptionPane.showMessageDialog(f,"Hello, Welcome to Javatpoint.");  
 	}
 	
 	public static void main(String[] args) {

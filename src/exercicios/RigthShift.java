@@ -1,5 +1,4 @@
 package exercicios;
-
 public class RigthShift {
 
 	public static void main(String[] args) {
